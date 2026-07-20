@@ -1,0 +1,19 @@
+name: matds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy=1.26.4
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - pip
+  - pip:
+    - matminer
+    - pymatgen
+    - python-dotenv
+    - imbalanced-learn
+    - umap-learn
+    - xgboost
