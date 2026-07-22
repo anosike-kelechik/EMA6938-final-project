@@ -1,0 +1,7 @@
+Metric,Value
+MAE (eV),0.4665
+RMSE (eV),0.7725
+R²,0.7703
+Training samples,16000
+Test samples,4000
+Magpie features,132
